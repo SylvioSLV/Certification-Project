@@ -12,3 +12,5 @@ Par Rapport à mon projet j’ai opté pour l’utilisation du kanban board, sur
 s à faire avant de commencer le travail. Au fur et à mesure que Le projet évolue, je déplace les différentes tâches selon La convenance de chaque colonne. </br>
 Outils utilisés : 
 ![git](https://user-images.githubusercontent.com/77750676/192661114-84b17cc7-986a-4849-a81f-a5cec41566d3.png)
+
+![visual](https://user-images.githubusercontent.com/77750676/192661371-f56781d9-efd5-45ef-a6ee-ed981a0c41ea.png)
