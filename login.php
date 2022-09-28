@@ -14,7 +14,7 @@
   <div class="wrapper">
     <!-- Section formulaire de connexion -->
     <section class="form login">
-      <header>Méssagerie Instantannée</header>
+      <header>TAURUS. Messagerie</header>
       <form action="#" method="POST" enctype="multipart/form-data" autocomplete="off">
         <div class="error-text"></div>
         <div class="field input">
