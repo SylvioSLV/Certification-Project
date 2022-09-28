@@ -27,3 +27,13 @@ Framework front-end avec beaucoup d’extensions par rapport aux langage, il fac
 - Stack Overflow </br>
 Afin de mieux résoudre certaines difficultés rencontrées dans le code, ce site qu’est Stack Overflow, est une référence car rassemblant des milliers de développeurs avec de multiples ressources. </br>
 ![stack](https://user-images.githubusercontent.com/77750676/192662097-40a08dbc-cf87-4d88-984b-5cd2f7e0f20f.png)
+# Les langages utilisés:
+- Php: Hypertext Preprocessor, plus connu sous son sigle PHP, est un langage de programmation libre, principalement utilisé pour produire des pages Web dynamiques via un serveur HTTP, mais pouvant également fonctionner comme n'importe quel langage interprété de façon locale. PHP est un langage impératif orienté objet. </br>
+![php](https://user-images.githubusercontent.com/77750676/192662418-8ca6a9aa-0be2-4f6a-a062-0d4ae9127971.png)
+- Ajax: (Asynchronous Javascript And XML) </br>
+![ajax](https://user-images.githubusercontent.com/77750676/192662528-a574d976-784c-4e37-8010-fe824202ad86.jpg)
+# Le prototype frontEnd de l'application
+![ProtoLogin](https://user-images.githubusercontent.com/77750676/192662670-2e4fdc79-9402-4793-9dc4-0be5a611d227.png)</br> </br>
+![protoSignup](https://user-images.githubusercontent.com/77750676/192662678-76b98d58-1442-406b-9b1f-dde83209ee42.png)</br> </br>
+![ProtoUtilisateur](https://user-images.githubusercontent.com/77750676/192662679-3b6260f7-3b75-444b-b571-645e73facdb4.png) </br> </br>
+![prot](https://user-images.githubusercontent.com/77750676/192662680-49fab0df-ac9a-4c45-8f12-f719c6f3c9c2.png) </br> </br>
