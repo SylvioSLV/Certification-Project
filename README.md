@@ -8,5 +8,7 @@ Et sur le plan professionnel d’autre part, c’est un pas de plus vers la réa
 # II.	Étude de l’art et méthodologie :
 1 Méthodologie de projet et outils à utiliser en rapport avec le projet :</br>
 - Méthodologie : </br>
-Par Rapport à mon projet j’ai opté pour l’utilisation du kanban board, sur mon compte github, où j'ai initialement créé un repository afin de d’envoyer mon travail pour le sécuriser. Pour revenir au kanban board, j’ai détaillé les différentes tâches à faire avant de commencer le travail. Au fur et à mesure que Le projet évolue, je déplace les différentes tâches selon La convenance de chaque colonne. </br>
+Par Rapport à mon projet j’ai opté pour l’utilisation du kanban board, sur mon compte github, où j'ai initialement créé un repository afin de d’envoyer mon travail pour le sécuriser. Pour revenir au kanban board, j’ai détaillé les différentes tâche
+s à faire avant de commencer le travail. Au fur et à mesure que Le projet évolue, je déplace les différentes tâches selon La convenance de chaque colonne. </br>
 Outils utilisés : 
+![git](https://user-images.githubusercontent.com/77750676/192661114-84b17cc7-986a-4849-a81f-a5cec41566d3.png)
