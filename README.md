@@ -17,5 +17,13 @@ Afin de pouvoir mieux gérer et stocker le code et également pour une collabora
 
 - Visual studio code </br>
 C'est un éditeur de texte qui prend en compte toutes les langages et est également souple et facile d’utilisation. </br>
-![visual](https://user-images.githubusercontent.com/77750676/192661371-f56781d9-efd5-45ef-a6ee-ed981a0c41ea.png)
-
+![visual](https://user-images.githubusercontent.com/77750676/192661371-f56781d9-efd5-45ef-a6ee-ed981a0c41ea.png) </br>
+- Figma </br>
+Logiciel de maquettage et de prototypage, il est également facile d’utilisation, souple et intéressant, offrant beaucoup de fonctionnalités, permettant d’avoir un aperçu visuel du site. </br>
+![figma](https://user-images.githubusercontent.com/77750676/192661860-91ba0d67-97aa-42dc-be0a-9e7ad54fa9ba.png)
+- Bootstrap </br>
+Framework front-end avec beaucoup d’extensions par rapport aux langage, il facilite le code et favorise une meilleure gestion de site en ce qui concerne la responsivité et le design et également permet la réactivité du site. </br>
+![bootstrap](https://user-images.githubusercontent.com/77750676/192661973-b9587642-ef13-4520-8bae-aba694fd170b.png) </br>
+- Stack Overflow </br>
+Afin de mieux résoudre certaines difficultés rencontrées dans le code, ce site qu’est Stack Overflow, est une référence car rassemblant des milliers de développeurs avec de multiples ressources. </br>
+![stack](https://user-images.githubusercontent.com/77750676/192662097-40a08dbc-cf87-4d88-984b-5cd2f7e0f20f.png)
