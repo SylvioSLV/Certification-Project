@@ -6,7 +6,7 @@ La tendance actuelle semble être une présence assez conséquente en ligne, se 
  Et sur le plan professionnel d’autre part, c’est un pas de plus vers la réalisation effective d’un application web professionnelle de graphiste pour tous les graphistes togolais du nord au sud dans le but de pouvoir leur permettre de présenter leur talent sur un site web sécurisé local et de pouvoir être contacter par un ou plusieurs clients directement.
 
 # II.	Étude de l’art et méthodologie :
-	 Méthodologie de projet et outils à utiliser en rapport avec le projet :
-o	Méthodologie :
-	Par Rapport à mon projet j’ai opté pour l’utilisation du kanban board, sur mon compte github, où j'ai initialement créé un repository afin de d’envoyer mon travail pour le sécuriser. Pour revenir au kanban board, j’ai détaillé les différentes tâches à faire avant de commencer le travail. Au fur et à mesure que Le projet évolue, je déplace les différentes tâches selon La convenance de chaque colonne.
-o	Outils utilisés :
+Méthodologie de projet et outils à utiliser en rapport avec le projet :
+Méthodologie :
+Par Rapport à mon projet j’ai opté pour l’utilisation du kanban board, sur mon compte github, où j'ai initialement créé un repository afin de d’envoyer mon travail pour le sécuriser. Pour revenir au kanban board, j’ai détaillé les différentes tâches à faire avant de commencer le travail. Au fur et à mesure que Le projet évolue, je déplace les différentes tâches selon La convenance de chaque colonne.
+Outils utilisés : 
