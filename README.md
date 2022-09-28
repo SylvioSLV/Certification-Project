@@ -10,7 +10,12 @@ Et sur le plan professionnel d’autre part, c’est un pas de plus vers la réa
 - Méthodologie : </br>
 Par Rapport à mon projet j’ai opté pour l’utilisation du kanban board, sur mon compte github, où j'ai initialement créé un repository afin de d’envoyer mon travail pour le sécuriser. Pour revenir au kanban board, j’ai détaillé les différentes tâche
 s à faire avant de commencer le travail. Au fur et à mesure que Le projet évolue, je déplace les différentes tâches selon La convenance de chaque colonne. </br>
-Outils utilisés : 
+Outils utilisés : </br>
+- github </br>
+Afin de pouvoir mieux gérer et stocker le code et également pour une collaboration efficace permettant une meilleure gestion des versions. </br>
 ![git](https://user-images.githubusercontent.com/77750676/192661114-84b17cc7-986a-4849-a81f-a5cec41566d3.png)
 
+- Visual studio code </br>
+C'est un éditeur de texte qui prend en compte toutes les langages et est également souple et facile d’utilisation. </br>
 ![visual](https://user-images.githubusercontent.com/77750676/192661371-f56781d9-efd5-45ef-a6ee-ed981a0c41ea.png)
+
