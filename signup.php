@@ -13,7 +13,7 @@
   <div class="wrapper">
     <!-- Section Formulaire d'inscription -->
     <section class="form signup">
-      <header>Messagerie Instantannée</header>
+      <header>TAURUS. Messagerie</header>
       <h4>Veuillez vous inscrire si c'est votre première fois.</h4>
       <form action="#" method="POST" enctype="multipart/form-data" autocomplete="off">
         <div class="error-text"></div>
